@@ -1,6 +1,5 @@
 "use client";
 import { authClient } from "@/lib/auth-client";
-import { router } from "better-auth/api";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
 
